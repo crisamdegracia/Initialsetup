@@ -1,4 +1,4 @@
-# Initial-setpup
+# Initial-setup
 
 Boiler-plate to automate some things. that's all folks!
 
